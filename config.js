@@ -7,12 +7,12 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'em thích anh ',
+    btnYes: 'anh dễ thương  ',
     btnNo: 'Không, Anh trai à -.-',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh :<',
+    question:'tại sao anh dễ thương vậy ? ',
     btnReply: 'nói cho anh biết i',
-    reply: 'Yêu thì yêu mà không yêu thì yêu',
-    messDesc: 'Anh yeu em rất nhiều',
-    btnAccept: 'em yêu anh',
+    reply: 'anh dễ thương nhiều chỗ lắm hong nói hết',
+    messDesc: 'em cute lắm ấy em biết hong hả bé khủng long',
+    btnAccept: 'em cảm ơn',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
