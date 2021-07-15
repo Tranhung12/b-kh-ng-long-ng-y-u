@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: ' bé khủng long cute à!',
+    introTitle: ' pé ơiii',
     introDesc: `Trái đất vốn lạ thường
     mà sao em cứ đi nhầm đường
     lạc vào tim anh lẻ loi
@@ -11,8 +11,8 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à -.-',
     question:'Em đừng có tự ti về bản thân mình nữa nha ! ',
     btnReply: 'hiểu chưaaa',
-    reply: 'em mà tự ti nữa là anh ngắt em đó nha',
-    messDesc: 'em có biết em cute lắm hong hả bé khủng long',
+    reply: 'em mà tự ti nữa là anh ngắt má em đó nha',
+    messDesc: 'em có biết em cute lắm hong hả ?',
     btnAccept: 'em cảm ơn',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
