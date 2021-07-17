@@ -9,10 +9,10 @@ const CONFIG = {
     desc: 'em có biết em dễ thương lắm hong  ',
     btnYes: 'em biết mà   ',
     btnNo: 'Không, Anh trai à -.-',
-    question:'Em đừng có tự ti về bản thân mình nữa nha ! ',
+    question:'em đừng để người cũ làm em tức cái lồn ngực nữa nhaaa! ',
     btnReply: 'hiểu chưaaa',
-    reply: 'em mà tự ti nữa là anh ngắt má em đó nha',
-    messDesc: 'em có biết em cute lắm hong hả ?',
-    btnAccept: 'em cảm ơn',
+    reply: 'em mở lòng ra đi nha đâu phải ai cũng xấu âu',
+    messDesc: 'hiểu hemm?',
+    btnAccept: 'hiểu ròi',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
