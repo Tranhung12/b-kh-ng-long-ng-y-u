@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'đừng có hong đấy nha',
     desc: 'cậu có biết cậu dễ thương lắm hong ? ',
-    btnYes: 'em biết mà   ',
+    btnYes: 'tui biết mà   ',
     btnNo: 'Không, cậu ơi -.-',
     question:'giữa tui và con cá cậu chọn aiii ? ',
     btnReply: 'tui bít ròi ',
