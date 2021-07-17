@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'em biết mà   ',
     btnNo: 'Không, Anh trai à -.-',
     question:'em đừng để người cũ làm em tức cái lồn ngực nữa nhaaa! ',
-    btnReply: 'hiểu chưaaa',
+    btnReply: 'em bít ròi ',
     reply: 'em mở lòng ra đi nha đâu phải ai cũng xấu âu',
     messDesc: 'hiểu hemm?',
     btnAccept: 'hiểu ròi',
