@@ -6,13 +6,13 @@ const CONFIG = {
     đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'đừng có hong đấy nha',
-    desc: 'cậu có biết cậu dễ thương lắm hong ? ',
+    desc: 'em có biết cậu dễ thương lắm hong ? ',
     btnYes: 'tui biết mà   ',
-    btnNo: 'Không, cậu ơi -.-',
+    btnNo: 'Không, anh ơi -.-',
     question:'giữa tui và con cá cậu chọn aiii ? ',
-    btnReply: 'tui bít ròi ',
+    btnReply: 'em bít ròi ',
     reply: 'phải chọn tuiii nghee hongg  ',
-    messDesc: 'chọn tui ii. Mót tui đem con cá và tui về chơi với bà ',
+    messDesc: 'chọn tui ii. Mốt anh đem con cá và anh về chơi với em ',
     btnAccept: 'thật 100%',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
