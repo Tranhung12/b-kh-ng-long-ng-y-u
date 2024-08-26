@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Ly ơiii',
+    introTitle: 'Trúc ơiii',
     introDesc: `em có biết anh thương em nhiều lắm hong ?`,
     btnIntro: 'hihi',
     title: 'em có thương yêu anh honggg ?',
@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không, anh à !',
     question:'biết sao anh thương em honggg ?',
     btnReply: 'có xạo quá không vậy',
-    reply: 'tại Ly dễ thương lắm lắm lunnn á  ',
+    reply: 'tại Trúc dễ thương lắm lắm lunnn á  ',
     messDesc: 'thật lòng mà nếu có em thì anh sẽ làm mọi cách để em yêu anh hoài luôn hehee',
     btnAccept: 'thật 100%, yêu anh đi rồi anh là của em từ nay về sau',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
